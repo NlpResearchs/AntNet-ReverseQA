@@ -25,8 +25,8 @@ Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 
 
 >2. Run  the following command to train or evaluate the AntNet respectively.
 
-```shell
-python train_choose.py  
-python test_with_choose.py
-python train_judge.py  
-python test_with_judge.py
+    ```shell
+    python train_choose.py  
+    python test_with_choose.py
+    python train_judge.py  
+    python test_with_judge.py
