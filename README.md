@@ -1,17 +1,17 @@
-# AntNet-rverseQA
+# Deep Human Answer Understanding for Natural Reverse QA
 
-The compiled data and implementation of AUNet understanding the answer of Reverse QA.
+This is the code and data for Deep Human Answer Understanding for Natural Reverse QA.
 
 ## Data set description
 
-Twenty-four participants were allowed to construct 50 to 60 questions given 18 to 22 answers from seven domains such as purchases, leisure interests and medical health. The details given blow:
+Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 answers from seven domains, namely, encyclopedia, insurance, personal, purchases, leisure interests, medical health, and exercise. The details given blow:
 
 <!-- mdformat off(no table) -->
 
 | Data set | questions | answers | samples(true/false/uncertain) |
 | -------- | --------- | ------- | ----------------------------- |
 | Tdata    | 536       | 10817   | 4610/4452/1755                |
-| Mdata    | 517       | 23445   | 20929/28876/9989              |
+| Mdata    | 1007      | 23445   | 20929/28876/9989              |
 
 <!-- mdformat on -->
 
