@@ -4,7 +4,7 @@ This is the code and data for Deep Human Answer Understanding for Natural Revers
 
 ## Data set description
 
-Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 answers from seven domains, namely, encyclopedia, insurance, personal, purchases, leisure interests, medical health, and exercise. The details given blow:
+Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 answers from seven domains, namely, encyclopedia, insurance, personal, purchases, leisure interests, medical health, and exercise. The details are as follows:
 
 <!-- mdformat off(no table) -->
 
