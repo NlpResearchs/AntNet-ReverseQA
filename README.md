@@ -21,7 +21,7 @@ Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 
 >Python=3.6, Tensorflow=1.3.1, pyltp=0.2.1 and numpy=1.16.2
 
 **Train and Test**  
->1. Train the model,you need to download the pretrained model [ltp_model](http://ltp.ai/download.html) and download the bert model [BERT](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) if you want to use bert pretrained vector.
+>1. Train the model, you need to download the pretrained model [ltp_model](http://ltp.ai/download.html) and download the bert model [BERT](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) if you want to use bert pretrained vector.
 
 >2. Run  the following command to train or evaluate the AntNet respectively.
 
