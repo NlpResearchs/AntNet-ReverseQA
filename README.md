@@ -11,7 +11,7 @@ Thirty participants were allowed to construct 50 to 60 questions given 18 to 25 
 | Data set | questions | answers | samples(true/false/uncertain) |
 | -------- | --------- | ------- | ----------------------------- |
 | Tdata    | 536       | 10817   | 4610/4452/1755                |
-| Mdata    | 1007      | 23445   | 20929/28876/9989              |
+| Mdata    | 1007      | 59794   | 20929/28876/9989              |
 
 <!-- mdformat on -->
 
